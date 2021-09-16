@@ -1,0 +1,8 @@
+{
+  "livros": [
+    { "id": 1, "titulo": "A moreninha", "autor": "Joaquim Manuel de Macedo" },
+    { "id": 2, "titulo": "diario de um banana", "autor": "Jeff Kinney" },
+    { "id": 3, "titulo": "o cotidiano, amanhã recomeça", "autor": "Frei Xavier" },
+    { "id": 4, "titulo": "Minha história", "autor": "Carlos de Andrade" }
+  ]
+}
